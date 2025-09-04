@@ -30,7 +30,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=vY2I22cAAAAJ"
   email            : "mohanz@cs.unc.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : #"https://riven-o.github.io"
+  baseurl          : #"/mohan-zhang.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
