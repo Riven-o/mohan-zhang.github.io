@@ -3,10 +3,10 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
----
-<!-- redirect_from: 
+redirect_from: 
   - /about/
-  - /about.html -->
+  - /about.html
+---
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -23,9 +23,12 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 
 
 # 🔥 News
+<span class='anchor' id='news'></span>
+
 - *2025.04*: &nbsp;🎉🎉 One paper won the SAC award for Low-resource Methods for NLP at NAACL 2025 🏆🏆.
 
 # 📝 Publications 
+<span class='anchor' id='publications'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAC Award @ NAACL 2025</div><img src='images/advancing_moe_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,9 +55,11 @@ Jie Peng\*, Jenna Ballard\*, **Mohan Zhang**, Sukwon Yun, Jiayi Xin, Qi Long, Ya
 </div>
 
 # 🎖 Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
 - *2025.04* SAC award for Low-resource Methods for NLP at NAACL 2025.
 
 # 📖 Educations
+<span class='anchor' id='educations'></span>
 - *2025.08 - present*, Department of Computer Science, The University of North Carolina at Chapel Hill, PhD. 
 - *2021.09 - 2025.06*, School of Computer Science and Technology, University of Science and Technology of China, B.Eng. 
 
