@@ -43,7 +43,7 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poster @ NeurIPS 2025</div><img src='images/DA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One Token Embedding Is Enough to Deadlock Your Reasoning Large Language Model](https://neurips.cc/virtual/2025/poster/116766)
