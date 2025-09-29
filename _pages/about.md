@@ -25,6 +25,7 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 # 🔥 News
 <span class='anchor' id='news'></span>
 
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper won the SAC award for Low-resource Methods for NLP at NAACL 2025 🏆🏆.
 
 # 📝 Publications 
@@ -39,6 +40,15 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[One Token Embedding Is Enough to Deadlock Your Reasoning Large Language Model](https://neurips.cc/virtual/2025/poster/116766)
+
+**Mohan Zhang\***, Yihua Zhang\*, Jinghan Jia, Zhangyang "Atlas" Wang, Sijia Liu, Tianlong Chen
 </div>
 </div>
 
