@@ -37,7 +37,9 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 
 [Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design](https://aclanthology.org/2025.naacl-long.347.pdf)
 
-**Mohan Zhang\***, Pingzhi Li\*, Jie Peng, Mufan Qiu, Tianlong Chen
+<strong>Mohan Zhang<sup>&dagger;</sup></strong>, Pingzhi Li<sup>&dagger;</sup>, Jie Peng, Mufan Qiu, Tianlong Chen
+
+<sup>&dagger;</sup> Equal contribution
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -49,7 +51,9 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 
 [One Token Embedding Is Enough to Deadlock Your Large Reasoning Model](https://neurips.cc/virtual/2025/poster/116766)
 
-**Mohan Zhang\***, Yihua Zhang\*, Jinghan Jia, Zhangyang "Atlas" Wang, Sijia Liu, Tianlong Chen
+<strong>Mohan Zhang<sup>&dagger;</sup></strong>, Yihua Zhang<sup>&dagger;</sup>, Jinghan Jia, Zhangyang "Atlas" Wang, Sijia Liu, Tianlong Chen
+
+<sup>&dagger;</sup> Equal contribution
 </div>
 </div>
 
@@ -67,7 +71,7 @@ Jingyi Chen<sup>&dagger;</sup>, <strong>Mohan Zhang<sup>&dagger;</sup></strong>,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPAL 2026</div><img src='images/symbiotic_overview.png' alt="Symbiotic Cooperation framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**
+[**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**](https://arxiv.org/pdf/2502.07942)
 
 Ruichen Zhang<sup>&dagger;</sup>, Mufan Qiu<sup>&dagger;</sup>, Zhen Tan<sup>&dagger;</sup>, <strong>Mohan Zhang</strong>, Xiaopeng Lu, Jie Peng, Kaidi Xu, Leandro Z. Agudelo, Peter Zhenghao Qian, Tianlong Chen
 
@@ -82,7 +86,9 @@ Ruichen Zhang<sup>&dagger;</sup>, Mufan Qiu<sup>&dagger;</sup>, Zhen Tan<sup>&da
 
 [Modalities Contribute Unequally: Enhancing Medical Multi-modal Learning through Adaptive Modality Token Re-balancing](https://icml.cc/virtual/2025/poster/45524)
 
-Jie Peng\*, Jenna Ballard\*, **Mohan Zhang**, Sukwon Yun, Jiayi Xin, Qi Long, Yanyong Zhang, Tianlong Chen
+Jie Peng<sup>&dagger;</sup>, Jenna Ballard<sup>&dagger;</sup>, <strong>Mohan Zhang</strong>, Sukwon Yun, Jiayi Xin, Qi Long, Yanyong Zhang, Tianlong Chen
+
+<sup>&dagger;</sup> Equal contribution
 
 </div>
 </div>
