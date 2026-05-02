@@ -25,6 +25,7 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 # 🔥 News
 <span class='anchor' id='news'></span>
 
+- *2026.05*: &nbsp;🎉🎉 One paper was accepted by Robotics: Science and Systems (RSS) 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper won the SAC award for Low-resource Methods for NLP at NAACL 2025 🏆🏆.
 
@@ -43,18 +44,40 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poster @ NeurIPS 2025</div><img src='images/DA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[One Token Embedding Is Enough to Deadlock Your Reasoning Large Language Model](https://neurips.cc/virtual/2025/poster/116766)
+[One Token Embedding Is Enough to Deadlock Your Large Reasoning Model](https://neurips.cc/virtual/2025/poster/116766)
 
 **Mohan Zhang\***, Yihua Zhang\*, Jinghan Jia, Zhangyang "Atlas" Wang, Sijia Liu, Tianlong Chen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/aid_sr_framework.png' alt="AID-SR framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models**
+
+Jingyi Chen<sup>&dagger;</sup>, <strong>Mohan Zhang<sup>&dagger;</sup></strong>, Laura Yao<sup>&dagger;</sup>, Yingtai Ni, Jianmin Ji, Jie Peng, Song Wang, Tianlong Chen
+
+<sup>&dagger;</sup> Equal contribution
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPAL 2026</div><img src='images/symbiotic_overview.png' alt="Symbiotic Cooperation framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**
+
+Ruichen Zhang<sup>&dagger;</sup>, Mufan Qiu<sup>&dagger;</sup>, Zhen Tan<sup>&dagger;</sup>, <strong>Mohan Zhang</strong>, Xiaopeng Lu, Jie Peng, Kaidi Xu, Leandro Z. Agudelo, Peter Zhenghao Qian, Tianlong Chen
+
+<sup>&dagger;</sup> Equal contribution
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poster @ ICML 2025</div><img src='images/modality.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/modality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modalities Contribute Unequally: Enhancing Medical Multi-modal Learning through Adaptive Modality Token Re-balancing](https://icml.cc/virtual/2025/poster/45524)
