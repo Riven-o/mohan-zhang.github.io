@@ -9,6 +9,8 @@
 title                    : "Mohan Zhang"
 description              : "Welcome to my personal website."
 repository               : "Riven-o/mohan-zhang.github.io"
+url                      : "https://riven-o.github.io"
+baseurl                  : "/mohan-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -32,7 +34,6 @@ author:
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://riven-o.github.io/mohan-zhang.github.io/"
   cv               : "files/Mohan_Zhang_CV.pdf"
-  baseurl          : "/mohan-zhang.github.io"
   bitbucket        :
   codepen          :
   dribbble         :

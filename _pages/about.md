@@ -25,9 +25,9 @@ I am currently a second-year Ph.D. student in Computer Science at the University
 # 🔥 News
 <span class='anchor' id='news'></span>
 
-- *2026.05*: &nbsp;🎉🎉 Our paper, "Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening," was accepted to USENIX Security 2026.
+- *2026.05*: &nbsp;🎉🎉 One paper was accepted to USENIX Security 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper was accepted to Robotics: Science and Systems (RSS) 2026.
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025.
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted to NeurIPS 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper won the SAC award for Low-resource Methods for NLP at NAACL 2025 🏆🏆.
 
 # 📝 Publications 
@@ -123,8 +123,8 @@ Jie Peng<sup>&dagger;</sup>, Jenna Ballard<sup>&dagger;</sup>, <strong>Mohan Zha
 # 📖 Education
 <span class='anchor' id='education'></span>
 
-- *2025.08 - present*, Department of Computer Science, The University of North Carolina at Chapel Hill, PhD. 
-- *2021.09 - 2025.06*, School of Computer Science and Technology, University of Science and Technology of China, B.Eng. 
+- *2025.08 - present*, Department of Computer Science, The University of North Carolina at Chapel Hill, Ph.D. in Computer Science.
+- *2021.09 - 2025.06*, School of Computer Science and Technology, University of Science and Technology of China, B.Eng.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
