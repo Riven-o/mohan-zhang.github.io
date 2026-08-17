@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill (UNITES @ UNC), advised by Prof. Tianlong Chen. Before joining UNC, I received my B.S. degree in Computer Science and Technology from the University of Science and Technology of China (USTC). My research interests lie in efficient and reliable machine learning, including building intelligent agent systems for diverse applications such as robotic automation, improving the scaling efficiency and reliability of LLM through techniques like Mixture of Experts (MoE).
+I am currently a second-year Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill (UNITES @ UNC), advised by Prof. Tianlong Chen. Before joining UNC, I received my B.S. degree in Computer Science and Technology from the University of Science and Technology of China (USTC). My research focuses on building intelligent agents for web navigation, robotic automation, and other real-world applications, as well as developing scalable and trustworthy LLMs.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -25,31 +25,42 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 # 🔥 News
 <span class='anchor' id='news'></span>
 
-- *2026.05*: &nbsp;🎉🎉 One paper was accepted by Robotics: Science and Systems (RSS) 2026.
+- *2026.05*: &nbsp;🎉🎉 Our paper, "Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening," was accepted to USENIX Security 2026.
+- *2026.04*: &nbsp;🎉🎉 One paper was accepted to Robotics: Science and Systems (RSS) 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper won the SAC award for Low-resource Methods for NLP at NAACL 2025 🏆🏆.
 
 # 📝 Publications 
 <span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAC Award @ NAACL 2025</div><img src='images/advancing_moe_overview.png' alt="sym" width="100%"></div></div>
+<!-- First-author or equal-contribution papers, newest first. -->
+<!-- Teaser source: official UNITES-Lab paper artifact assets. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security '26</div><img src='images/resume_injection_examples.png' alt="Real-world prompt injection examples in resumes" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design](https://aclanthology.org/2025.naacl-long.347.pdf)
+[**Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening**](https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-mohan)
 
-<strong>Mohan Zhang<sup>&dagger;</sup></strong>, Pingzhi Li<sup>&dagger;</sup>, Jie Peng, Mufan Qiu, Tianlong Chen
+<strong>Mohan Zhang</strong>, Yuqi Jia, Zhen Tan, Steven Jiang, Neil Zhenqiang Gong, Tianlong Chen, Dawn Song
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/aid_sr_framework.png' alt="AID-SR framework for automated continuum robot design" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models**](https://openreview.net/forum?id=9usGGaEeKT)
+
+Jingyi Chen<sup>&dagger;</sup>, <strong>Mohan Zhang<sup>&dagger;</sup></strong>, Laura Yao<sup>&dagger;</sup>, Yingtai Ni, Jianmin Ji, Jie Peng, Song Wang, Tianlong Chen
 
 <sup>&dagger;</sup> Equal contribution
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DA.png' alt="Deadlock Attack overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[One Token Embedding Is Enough to Deadlock Your Large Reasoning Model](https://neurips.cc/virtual/2025/poster/116766)
+[**One Token Embedding Is Enough to Deadlock Your Large Reasoning Model**](https://neurips.cc/virtual/2025/poster/116766)
 
 <strong>Mohan Zhang<sup>&dagger;</sup></strong>, Yihua Zhang<sup>&dagger;</sup>, Jinghan Jia, Zhangyang "Atlas" Wang, Sijia Liu, Tianlong Chen
 
@@ -57,21 +68,34 @@ I am currently a first-year Ph.D. student in Computer Science at the University 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/aid_sr_framework.png' alt="AID-SR framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAC Award @ NAACL 2025</div><img src='images/advancing_moe_overview.png' alt="C2R expert collaboration and parallelism design" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models**
+[**Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design**](https://aclanthology.org/2025.naacl-long.347/)
 
-Jingyi Chen<sup>&dagger;</sup>, <strong>Mohan Zhang<sup>&dagger;</sup></strong>, Laura Yao<sup>&dagger;</sup>, Yingtai Ni, Jianmin Ji, Jie Peng, Song Wang, Tianlong Chen
+<strong>Mohan Zhang<sup>&dagger;</sup></strong>, Pingzhi Li<sup>&dagger;</sup>, Jie Peng, Mufan Qiu, Tianlong Chen
 
 <sup>&dagger;</sup> Equal contribution
+
+</div>
+</div>
+
+<!-- Co-authored papers, newest first. -->
+<!-- Teaser source: trust.pdf from the paper's arXiv source package. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/trust_framework.png' alt="TRUST decentralized reasoning audit framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**TRUST: A Crowdsourcing Framework for Auditing Large Language Model Reasoning**](https://openreview.net/forum?id=TTEGqN6FXD)
+
+Morris Yu-Chao Huang, Zhen Tan, <strong>Mohan Zhang</strong>, Pingzhi Li, Zhuo Zhang, Tianlong Chen
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPAL 2026</div><img src='images/symbiotic_overview.png' alt="Symbiotic Cooperation framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**](https://arxiv.org/pdf/2502.07942)
+[**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**](https://openreview.net/forum?id=gvYCdNQ3Wp)
 
 Ruichen Zhang<sup>&dagger;</sup>, Mufan Qiu<sup>&dagger;</sup>, Zhen Tan<sup>&dagger;</sup>, <strong>Mohan Zhang</strong>, Xiaopeng Lu, Jie Peng, Kaidi Xu, Leandro Z. Agudelo, Peter Zhenghao Qian, Tianlong Chen
 
@@ -79,12 +103,10 @@ Ruichen Zhang<sup>&dagger;</sup>, Mufan Qiu<sup>&dagger;</sup>, Zhen Tan<sup>&da
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/modality.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/modality.png' alt="Adaptive modality token re-balancing framework and results" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modalities Contribute Unequally: Enhancing Medical Multi-modal Learning through Adaptive Modality Token Re-balancing](https://icml.cc/virtual/2025/poster/45524)
+[**Modalities Contribute Unequally: Enhancing Medical Multi-modal Learning through Adaptive Modality Token Re-balancing**](https://icml.cc/virtual/2025/poster/45524)
 
 Jie Peng<sup>&dagger;</sup>, Jenna Ballard<sup>&dagger;</sup>, <strong>Mohan Zhang</strong>, Sukwon Yun, Jiayi Xin, Qi Long, Yanyong Zhang, Tianlong Chen
 
@@ -95,10 +117,12 @@ Jie Peng<sup>&dagger;</sup>, Jenna Ballard<sup>&dagger;</sup>, <strong>Mohan Zha
 
 # 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
+
 - *2025.04* SAC award for Low-resource Methods for NLP at NAACL 2025.
 
-# 📖 Educations
-<span class='anchor' id='educations'></span>
+# 📖 Education
+<span class='anchor' id='education'></span>
+
 - *2025.08 - present*, Department of Computer Science, The University of North Carolina at Chapel Hill, PhD. 
 - *2021.09 - 2025.06*, School of Computer Science and Technology, University of Science and Technology of China, B.Eng. 
 
